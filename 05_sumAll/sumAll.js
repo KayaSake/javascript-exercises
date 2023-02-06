@@ -11,6 +11,7 @@ else if(x>y){ let sum =0;
   }
   return sum;
 }
+else {return console.error();}
 }
 
 // Do not edit below this line
