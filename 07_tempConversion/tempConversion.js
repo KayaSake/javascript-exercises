@@ -1,5 +1,7 @@
-const ftoc = function() {
-
+const ftoc = function(fer) {
+let cel = 0;
+cel = ((fer - 32) *(5/9));
+return cel;
 };
 
 const ctof = function() {
